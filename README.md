@@ -12,4 +12,4 @@ A beginners swift project to create a rao vat  application in Swift 5.
 ### Create the basic App with the back-end CRUD, upload image throughout UIImagePickerControler to back-end server.
 
 ### Click the image to watch demonstration video
-[![Screenshot](https://raw.githubusercontent.com/jcd4stg/Messenger/main/images/Screen.png)](https://www.youtube.com/watch?v=p7-bTS33PyM)
+[![Screenshot](https://raw.githubusercontent.com/jcd4stg/RaoVatApp/main/images/screenshot.png)
